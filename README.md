@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently exploring and developing apps in **Android Studio using JAVA.**
 
-- 🌱 I’m currently learning **about AJAX**
+- 🌱 I’m currently learning **about AJAX.**
 
 - 👯 I’m looking to collaborate on **android related projects.**
 
