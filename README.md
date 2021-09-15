@@ -12,6 +12,7 @@
 - 📫 How to reach me **shubhangi.dwivedi04@gmail.com**
 
 - 😊 Pronouns: **She/her**
+- ⚡ Fun fact: Cakes>>>>>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
