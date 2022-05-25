@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in coding and learning new technologies.
 
-- 👯 I’m looking to collaborate on ** computer science related projects**.
+- 👯 I’m looking to collaborate on **computer science related projects**.
 
 - 📫 How to reach me **shubhangi.dwivedi04@gmail.com**
 
