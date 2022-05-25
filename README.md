@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangi-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi-dwivedi" /> </p>
 
-- 🔭 I’m currently exploring and developing apps in **Android Studio using JAVA.**
+- 👀 I’m interested in coding and learning new technologies.
 
-- 👯 I’m looking to collaborate on **android related projects.**
-
-- 💬 Ask me about **C, C++ .**
+- 👯 I’m looking to collaborate on ** computer science related projects**.
 
 - 📫 How to reach me **shubhangi.dwivedi04@gmail.com**
 
